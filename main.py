@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-def sum(x,y):
-    return x+y
-=======
-def subtract(x,y):
-    return x-y
->>>>>>> dev
+def multiply(x,y):
+    return x*y
+    
